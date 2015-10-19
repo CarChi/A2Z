@@ -1,0 +1,27 @@
+﻿the: 1108
+and: 881
+to: 760
+he: 756
+my: 657
+you: 496
+me: 485
+of: 430
+his: 428
+in: 419
+is: 369
+it: 367
+at: 321
+that: 239
+on: 216
+for: 213
+him: 206
+with: 189
+this: 175
+she: 167
+have: 161
+grey: 157
+what: 156
+so: 147
+as: 145
+her: 137
+
